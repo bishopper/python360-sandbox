@@ -65,5 +65,69 @@
 # else : 
 #     print("else 1")
 
-if 2 == 2 :
-    pass
+# if 2 == 2 :
+#     pass
+
+
+# name = "ALI"
+# print(name)
+# print(name.lower())
+
+# name = "ali"
+# print(name)
+# print(name.upper())
+
+# name = "ali reza"
+# print(name)
+# print(name.capitalize())
+
+
+# name = "ali reza"
+# print(name)
+# print(name.title())
+
+
+# name = "   ali reza    "
+# print(name)
+# print(name.strip())
+
+
+# name = "   ali reza    "
+# print(name)
+# print(name.lstrip())
+
+# name = "   ali reza    "
+# print(name)
+# print(name.rstrip())
+
+# name = "ali reza"
+# print(name)
+# print(name.replace("ali","mohammad"))
+
+# split -- list
+
+# print("ali"  + "reza")
+# print("ali"  + " " + "reza")
+
+# print(f"mohammad {}")
+
+# name = "alireza"
+# print(name[-1])
+
+
+# name = "    alireza"
+# x = name[::2].upper().strip().replace("A","B")
+# print()
+
+
+# name = "mohammad \"ezafi\" behnam"
+# print(name)
+
+# name = "mohammad \n behnam"
+# print(name)
+
+# name = "mohammad \t behnam"
+# print(name)
+
+name = "my name is \b \b \b ali "
+print(name)
